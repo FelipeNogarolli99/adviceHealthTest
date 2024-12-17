@@ -1,7 +1,7 @@
 # adviceHealthTest
 
 📋  Descrição do Projeto
-<p>Prototipo de telas estaticas para a advice health, telas de consulta, agendamente , deshbaord e perfil .</p>
+<p> protótipo de telas estáticas voltado para a Advice Health, com foco nas funcionalidades de consulta, agendamento, dashboard e perfil. A proposta é organizada com o nome das telas, uma breve descrição e elementos que devem ser incluídos.</p>
 
 Video geral do sistema:
 https://www.youtube.com/watch?v=a2jXmsrUF3k&ab_channel=FelipeMacedo
