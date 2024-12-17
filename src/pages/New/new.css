@@ -1,0 +1,84 @@
+
+.agendamento-container {
+    font-family: 'Arial', sans-serif;
+    background-color: #f7f9fc;
+    padding: 20px;
+    min-height: 100vh;
+}
+
+.agendamento-content {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    margin-top: 20px;
+}
+
+h3 {
+    color: #333;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.input-group {
+    margin-bottom: 20px;
+}
+
+.input-group label {
+    font-weight: bold;
+    color: #444;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.input-group input,
+.input-group select {
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    font-size: 14px;
+}
+
+.input-group input:focus,
+.input-group select:focus {
+    border-color: #4BC0C0;
+}
+
+.erro {
+    color: red;
+    margin-bottom: 15px;
+    font-size: 14px;
+}
+
+.actions {
+    display: flex;
+    gap: 10px;
+}
+
+.btn-confirmar {
+    background-color: #4BC0C0;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.btn-confirmar:hover {
+    background-color: #36a29c;
+}
+
+.btn-cancelar {
+    background-color: #f44336;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.btn-cancelar:hover {
+    background-color: #d32f2f;
+}
